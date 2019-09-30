@@ -1,78 +1,33 @@
-# Millennials to Snake People
+# Impeach to Investigate
 
-Browser extension that reveals the *real* truth behind Millennials.
+Browser extension that helps fix what everyone seems to be forgetting about Impeachment.
 
 
 ## Installation
 
-1. Add the extension to your browser of choice: 
-  - [Chrome](https://chrome.google.com/webstore/detail/millennials-to-snake-peop/jhkibealmjkbkafogihpeidfcgnigmlf)
-  - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/millennials-to-snake-people/)
-  - [Safari](https://github.com/a2/millennials-to-snake-people/releases)
-- [Free your mind](https://www.google.com/search?q=Millennials)
+1. Add the extension to [Chrome](https://chrome.google.com/webstore/detail/momoeckkbbehicbdliiejajpklkbnmdc)
+
+2. Show your representatives [the error of their ways](https://resist.bot/)
 
 
-## Also
+## Examples
 
-- Need headlines automatically converted and tweeted? Follow [@snakepeople_bot](https://twitter.com/snakepeople_bot) on Twitter, courtesy of [jimkang](https://github.com/jimkang)'s [hail-ants-bot](https://github.com/jimkang/hail-ants-bot)
-- Uncomfortable that a non-compulsory, intentionally subversive browser extension uses language to affect your worldview, but still want a laugh? Try [Millennials to Snake People Pure](https://chrome.google.com/webstore/detail/millennials-to-snake-peop/ekkcdmnckghgcbgkdfbafpgepbmkjhnd?hl=en-US)
-- Addicted to text replacement plugins? Check out [Cloud to Butt Plus](https://chrome.google.com/webstore/detail/cloud-to-butt-plus/apmlngnhgbnjpajelfkmabhkfapgnoai?hl=en), [SJW to Skeleton](https://chrome.google.com/webstore/detail/sjw-to-skeleton/kckodmjikeoncekpplppkkcjolofmacc?hl=en), [Millennials Begone!](https://chrome.google.com/webstore/detail/millennials-begone/dlgjecnejicmpdknhangcbeahbgipolf?hl=en)
+![Tweet from Lindsey Graham](/screenshot-1.png?raw=true "Tweet from Lindsey Graham")
+
+![Tweet from Matt Oswalt](/screenshot-2.png?raw=true "Tweet from Matt Oswalt")
+
+![Tweet from USA TODAY](/screenshot-3.png?raw=true "Tweet from USA TODAY")
 
 
 ## Thanks
 
-Huge thank you to the following people for their help:
+Credit to the following people for their previous work from which this was adapted:
 
-- Ports
-    - [a2](https://github.com/a2) for the Safari port
-    - [pselle](https://github.com/pselle) for the Firefox port
-- Assistance and advice
-    - [samford](https://github.com/samford) 
-    - [vandahm](https://github.com/vandahm)
-- DraftJSapocalypse 
-    - [flarnie](https://github.com/flarnie)
-    - [drewski3420](https://github.com/drewski3420)
-    - [hguiney](https://github.com/hguiney)
-    - [redbassett](https://github.com/redbassett)
-    - [roshkins](https://github.com/roshkins)
-    - [SnoopJeDi](https://github.com/SnoopJeDi)
-    - [spicyj](https://github.com/spicyj)
+- [ericwbailey](https://github.com/ericwbailey) for ["Millennials" to "Snake People"](https://github.com/ericwbailey/millennials-to-snake-people)
+- [panicsteve](https://github.com/panicsteve) for ["Cloud" to "Butt"](https://github.com/panicsteve/cloud-to-butt)
+- [noomtah](https://thenounproject.com/noomtah) for ["Constitution"](https://thenounproject.com/term/constitution/2174383) on the Noun Project
 
 
 ## How to disable
 
-Don't worry! The extension can be re-enabled after ~~it destroys your blog post~~ it is disabled.
-
-### Chrome
-
 `Preferences` > `Extensions` > Uncheck `Enable`
-
-### Firefox
-
-`Tools` > `Add-ons` > `Extensions` > Click `Disable`
-
-### Safari
-
-`Preferences` > `Extensions` > Uncheck checkbox next to `Millennials to Snake People`
-
-
-## Screenshots
-
-### Google Search Results
-[![Google Search Results](https://i.imgur.com/GTBOuEr.png)](https://www.google.com/search?q=Millennials)
-
-### The Atlantic
-[![The Atlantic](https://i.imgur.com/LDFOsrO.png)](http://www.theatlantic.com/politics/archive/2013/08/the-outsiders-how-can-millennials-change-washington-if-they-hate-it/278920/)
-
-### BuzzFeed
-[![BuzzFeed](https://i.imgur.com/PT1NWX5.png)](http://www.buzzfeed.com/sapna/what-public-companies-are-telling-wall-street-about-millenni)
-
-### Installed Extensions
-#### Chrome
-![](https://i.imgur.com/xAzfhw8.png)
-
-#### Firefox
-![](http://i.imgur.com/ro9zkDl.png)
-
-#### Safari
-![](https://camo.githubusercontent.com/e244891000642e281c202b4fbd07b14fcf2bf4d7/687474703a2f2f61322e642e70722f477757712e706e67)
